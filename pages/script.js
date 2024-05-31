@@ -114,7 +114,7 @@ document.getElementById('clear').addEventListener('click', function() {
 });
 function genererLienPanierUtilisateur() {
     // Générer le lien vers le panier avec les sélections de l'utilisateur
-    var lienVersPanier = "https://renardtech09.github.io/TestRG0/pages/page2.html";
+    var lienVersPanier = "https://jt-tech09.github.io/FoxGAME/pages/MonPanier.html";
 
     // Récupérer les sélections de l'utilisateur depuis le localStorage
     var selectionsUtilisateur = [];
